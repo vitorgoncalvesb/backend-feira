@@ -1,6 +1,6 @@
 # Feira Tecnológica - Backend de Votação
 
-Backend em FastAPI conectado diretamente ao MariaDB/MySQL usando SQL puro, sem ORM, sem SQLAlchemy, sem Alembic e sem migrations.
+Backend em FastAPI conectado diretamente ao MariaDB/MySQL.
 
 ## Visão geral
 
